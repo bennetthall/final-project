@@ -1,0 +1,112 @@
+/*
+
+*/
+body {
+    font-family: 'Oswald', serif;
+    font-weight: normal;
+    background-color: #E9EDF0;
+}
+h1, h2, h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+a {
+    color: #4B7DFE;
+}
+a:hover {
+    color: #008EFF;
+    text-decoration: none;
+}
+.btn-primary {
+    background-color: #4B7DFE;
+    border-color: #4B7DFE;
+    color: #FFFFFF;
+    font-weight: 100;
+}
+.btn-primary:hover {
+    color: #FFFFFF;
+    background-color: #4EACF6;
+    border-color: #4EACF6;
+}
+.final-project-header {
+    background-color: #4B7DFE;
+    color: #FFFFFF;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+.final-project-header h1 small {
+    font-size: .35em;
+    font-family: 'Raleway', sans-serif;
+}
+.final-project-header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.final-project-header a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+.final-project-footer {
+    background-color: #4B7DFE;
+    border-top: 5px solid #4EACF6;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    margin-top: 1em;
+    color: #ffffff;
+}
+.final-project-footer a {
+    color: #ffffff;
+    font-size: 2em;
+    margin-left: .25em;
+}
+.final-project-footer a:hover {
+    color: #4EACF6
+}
+.final-project-home-page-intro {
+    background-color: #4EACF6;
+    color: #ffffff;
+    padding: 1em 0;
+    margin-bottom: 1em;
+}
+.final-project-navigation {
+	background-color: #4EACF6;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	margin: 0;
+	margin-bottom: 2em;
+}
+.final-project-navigation .breadcrumb {
+	background-color: #4EACF6;
+	margin: 0;
+	color: #ffffff;
+}
+.final-project-navigation .breadcrumb li, .final-project-navigation .breadcrumb a, .final-project-navigation .breadcrumb a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.final-project-navigation .breadcrumb li.active {
+	color: #4B7DFE;
+	font-weight: 400;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+	color: #ffffff;
+}
+dt {
+	font-family: 'Wire One', sans-serif;
+	font-size: 1.75em;
+}
+dd strong {
+	font-size: 2em;
+	font-weight: 100;
+}
+dd {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-size: .8em;
+	font-weight: 100;
+}
+.modal h1 {
+	margin:0;
+}
+
